@@ -98,5 +98,15 @@
     "image": "image/previews/better-ui-config.png",
     "description": "Универсальный конфиг с настроенными комбо для микро-героев и набором полезных утилит. Включает функции для автоматизации игры, такие как ластхит, доджер и контроль иллюзий.",
     "code": "6a496b1be54f9078d05cd626"
+  },
+  {
+    "id": "white-red-alpha",
+    "type": "theme",
+    "name": "WhiteRedAlpha",
+    "author": "Community",
+    "tag": "Минимализм",
+    "image": "image/previews/white-red-alpha.png",
+    "description": "Светлая тема оформления с акцентными красными элементами. Придает интерфейсу чистый и современный вид.",
+    "code": "635c6ac1-d61146fc"
   }
 ]
