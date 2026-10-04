@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pink-transparent",
+    "type": "theme",
+    "name": "Pink Transparent",
+    "author": "OutByte",
+    "tag": "Pink",
+    "image": "image/previews/pink-transparent.png",
+    "description": "Минималистичная розовая тема с прозрачными элементами интерфейса. Создана для любителей эстетичного и легкого оформления.",
+    "code": "352cdc1a-be5346a0"
+  },
+  {
+    "id": "gothic-veil",
+    "type": "theme",
+    "name": "Gothic Veil",
+    "author": "dmxtxam",
+    "tag": "Dark/Gothic",
+    "image": "image/previews/gothic-veil.png",
+    "description": "Мрачная и элегантная тема оформления в готическом стиле. Придает интерфейсу Dota 2 строгий темный вид с акцентами в викторианской эстетике.",
+    "code": "bbfc2134-562d40ab"
+  },
+  {
+    "id": "soul-keeper-theme",
+    "type": "theme",
+    "name": "Soul Keeper",
+    "author": "dmxtxam",
+    "tag": "Темно-фиолетовая",
+    "image": "image/previews/soul-keeper-theme.png",
+    "description": "Минималистичная тема в глубоких темно-фиолетовых тонах. Создает мрачную и стильную атмосферу интерфейса.",
+    "code": "0dde39b2-983d4c7d0dde39b2-983d4c7d"
+  },
+  {
+    "id": "transparent-umbrella-theme",
+    "type": "theme",
+    "name": "Transparent Umbrella",
+    "author": "OutByte",
+    "tag": "Minimalist",
+    "image": "image/previews/transparent-umbrella-theme.png",
+    "description": "Прозрачная тема для интерфейса Umbrella. Делает визуальное оформление более легким и минималистичным.",
+    "code": "14ea4a30-cf49441b"
+  },
+  {
+    "id": "liquid-glass",
+    "type": "theme",
+    "name": "Liquid Glass",
+    "author": "hanagumori",
+    "tag": "Стеклянный стиль",
+    "image": "image/previews/liquid-glass.png",
+    "description": "Визуальная тема с эффектом жидкого стекла и динамической прозрачностью. Выполнена в свежих бирюзово-синих тонах с многослойными элементами.",
+    "code": "e3c20ba6-11654a38"
+  },
+  {
+    "id": "skeet-theme",
+    "type": "theme",
+    "name": "Skeet",
+    "author": "hanagumori",
+    "tag": "Dark Green",
+    "image": "image/previews/skeet-theme.png",
+    "description": "Тема в темно-зеленых тонах, вдохновленная визуальным стилем чита Skeet для CS:GO. Придает интерфейсу Dota 2 строгий и узнаваемый вид.",
+    "code": "cbe70e4b-3c91491dcbe70e4b-3c91491d"
+  },
+  {
+    "id": "gruvbox",
+    "type": "theme",
+    "name": "GruvBox",
+    "author": "See you later",
+    "tag": "Тёплая тёмная",
+    "image": "image/previews/gruvbox.png",
+    "description": "Классическая тёмная тема в тёплых коричневых и бежевых тонах. Обеспечивает мягкий контраст, который не утомляет глаза при длительной игре.",
+    "code": "9ae0bf2b-df4a4aeb"
+  },
+  {
+    "id": "rose-quartz",
+    "type": "theme",
+    "name": "Rose Quartz",
+    "author": "hanagumori",
+    "tag": "Розовый стиль",
+    "image": "image/previews/rose-quartz.png",
+    "description": "Нежная и эстетичная тема в розовых тонах с цветочными элементами. Отлично подойдет для создания уютного и красивого интерфейса.",
+    "code": "fca90d06-e3be4b78"
+  },
+  {
+    "id": "k4ifman-config",
+    "type": "config",
+    "name": "K4ifman Config",
+    "author": "k4ifman",
+    "tag": "General",
+    "image": "image/previews/k4ifman-config.png",
+    "description": "Универсальный конфиг от k4ifman с полной настройкой всех функций. Отличается стабильной и качественной работой всех компонентов.",
+    "code": "693e9628b6e380f29b754ab1"
+  },
+  {
+    "id": "better-ui-config",
+    "type": "config",
+    "name": "BetterUI Config",
+    "author": "Community",
+    "tag": "Multi-hero",
+    "image": "image/previews/better-ui-config.png",
+    "description": "Универсальный конфиг с настроенными комбо для микро-героев и набором полезных утилит. Включает функции для автоматизации игры, такие как ластхит, доджер и контроль иллюзий.",
+    "code": "6a496b1be54f9078d05cd626"
+  }
+]
