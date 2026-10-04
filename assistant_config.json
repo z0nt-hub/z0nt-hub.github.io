@@ -1,0 +1,7 @@
+{
+  "api_key": "AQ.Ab8RN6IhXRbPFl5P1s9Fr-BobTXw35MIza2Kgqj5ZchTJTGiCw",
+  "model": "gemini-3.1-flash-lite",
+  "scripts_json_path": "scripts.json",
+  "output_dir": "repo_scripts",
+  "api_url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+}
